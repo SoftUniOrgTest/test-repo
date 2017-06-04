@@ -1,6 +1,11 @@
 name = peter
+
 size = 100
+
 email = peter@dir.bg
+
 name = john
+
 size = 120
+
 email = john@dir.bg
